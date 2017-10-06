@@ -1,7 +1,8 @@
 #include <iostream>
 #include <string>
 #include <stdio.h>
-#include "player.hpp"
+#include <fstream>
+#include "base_player.hpp"
 
 class pc_player : public player {
 private:
@@ -18,13 +19,19 @@ public:
 };
 
 int main( int argc, char **argv ){
+	std::ifstream ifs;
+	ifs.open(argv[ 1 ]);
+	char rtttl[1024];
+	while (!ifs.eof()) {
+		ifs.getline(rtttl, sizeof(ifs));
+	}
+
 	auto pc = pc_player();
-	play( pc, argv[ 1 ]);
+	play( pc, rtttl);
+
 	std::cout
 		<< "#include \"melody.hpp\"\n"
-		<< "class pc_melody : public melody {\n"
-		<< "public:\n"
-		<< "	void play( player & p ) {\n"
+		<< "void pc_melody::play( player & p ) {\n"
 		<< pc.get_code()
-		<< "	}\n};";
+		<< "}\n";
 }

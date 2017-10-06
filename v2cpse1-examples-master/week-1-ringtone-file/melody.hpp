@@ -23,4 +23,9 @@ public:
     }
 };
 
+class pc_melody : public melody {
+public:
+	void play (player & p);
+};
+
 #endif // MELODY_HPP
