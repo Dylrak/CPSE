@@ -1,17 +1,19 @@
 #include "hwlib.hpp"
 #include "message.hpp"
 
+#define CAPS 32
+
 extern "C" void uart_put_char( char c ){
    hwlib::cout << c;
 }
 
 extern "C" void print_asciz( const char * s );
 
-extern "C" void application(){
-   print_asciz( "Hello world\n" );	
-}
+extern "C" void application( const char * s );
 
-int main( void ){	
+extern "C" char capsify( char c );
+
+int main( void ){
     
    // kill the watchdog
    WDT->WDT_MR = WDT_MR_WDDIS;
@@ -21,5 +23,5 @@ int main( void ){
       // wait for the PC console to start
    hwlib::wait_ms( 500 );
 
-   application();
+   application( "Hello world, the ANSWER is 42!\n" );
 }

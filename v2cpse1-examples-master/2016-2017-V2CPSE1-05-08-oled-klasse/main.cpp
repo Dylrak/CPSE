@@ -69,5 +69,7 @@ int main( void ){
    auto & oled = hw.oled;
 
    hwlib::circle( oled.size / 2 , square( oled.size ).x / 2 - 5 ).draw( oled );    
-   oled.flush();
+   for (;;) {
+	   oled.flush();
+   }
 }

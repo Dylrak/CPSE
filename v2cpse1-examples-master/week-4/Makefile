@@ -9,10 +9,10 @@
 #############################################################################
 
 # source files in this project (main.cpp is automatically assumed)
-SOURCES := uart_print_char.asm print_asciz.asm
+SOURCES :=
 
 # header files in this project
-HEADERS := 
+HEADERS :=
 
 # other places to look for files for this project
 SEARCH  := 
