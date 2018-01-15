@@ -37,27 +37,27 @@ private:
 		bit_counter = 0;
 	}
 
-	void authenticate() { //Authenticates the current message and compares to prev_message if available.
-		//If message is authenticated it is sent to the channel via message interface.
-		uint_fast8_t bit_1 = 1, bit_2 = 6;
-		bool correct = true;
-		for (uint_fast8_t i = CONTROLBIT; i < msg.size; i++) {
-			if (msg.get_bit(i) != (msg.get_bit(bit_1++) ^ msg.get_bit(bit_2++))) { //If bit 1 & 6 are NOT the XOR of bit 11, the message is incorrect. Repeat for 2, 7 & 12 etc.
-				correct = false;
-				break;
-			}
-		}
-		if (correct) {
-			if (prev_msg.get_bit(0) == 1) { //If prev_msg is full (indicated by prev_msg[0] == 1) compare both messages.
-				if (msg.bits == prev_msg.bits) { //If they match, send message to message listener channel.
-					ml.msg_received(msg);
-				}
-				reset();
-			} //Else, wait for break between messages to flush msg to prev_msg
-		} else {
-			reset();
-		}
-	}
+//	void authenticate() { //Authenticates the current message and compares to prev_message if available.
+//		//If message is authenticated it is sent to the channel via message interface.
+//		uint_fast8_t bit_1 = 1, bit_2 = 6;
+//		bool correct = true;
+//		for (uint_fast8_t i = CONTROLBIT; i < msg.size; i++) {
+//			if (msg.get_bit(i) != (msg.get_bit(bit_1++) ^ msg.get_bit(bit_2++))) { //If bit 1 & 6 are NOT the XOR of bit 11, the message is incorrect. Repeat for 2, 7 & 12 etc.
+//				correct = false;
+//				break;
+//			}
+//		}
+//		if (correct) {
+//			if (prev_msg.get_bit(0) == 1) { //If prev_msg is full (indicated by prev_msg[0] == 1) compare both messages.
+//				if (msg.bits == prev_msg.bits) { //If they match, send message to message listener channel.
+//					ml.msg_received(msg);
+//				}
+//				reset();
+//			} //Else, wait for break between messages to flush msg to prev_msg
+//		} else {
+//			reset();
+//		}
+//	}
 
 	void main() {
 		for (;;) {
@@ -78,7 +78,8 @@ private:
 					msg.bits <<= 1;
 					msg.bits += bit;
 					if (++bit_counter > 15) {
-						authenticate();
+//						authenticate();
+						ml.msg_received(msg);
 					}
 				}
 			}

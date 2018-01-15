@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CodeLite_Project Name="week-3" InternalType="Console" Version="10.0.0">
+<CodeLite_Project Name="week-3" InternalType="Console">
   <Plugins>
     <Plugin Name="qmake">
       <![CDATA[00010001N0005Debug000000000000]]>
@@ -22,10 +22,10 @@
   <VirtualDirectory Name="src">
     <File Name="main.cpp"/>
     <File Name="ir_receiver.hpp"/>
-    <File Name="msg_decoder.hpp"/>
-    <File Name="pause_detector.hpp"/>
     <File Name="message.hpp"/>
+    <File Name="msg_decoder.hpp"/>
     <File Name="msg_logger.hpp"/>
+    <File Name="pause_detector.hpp"/>
   </VirtualDirectory>
   <Settings Type="Executable">
     <GlobalSettings>

@@ -1,303 +1,303 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CodeLite_Workspace Name="example code" Database="" Version="10.0.0">
+<CodeLite_Workspace Name="example code" Database="">
   <Project Name="2016-2017-V2CPSE1-01-01-message" Path="2016-2017-V2CPSE1-01-01-message/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-01-01-message" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-01-02-ringtone" Path="2016-2017-V2CPSE1-01-02-ringtone/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-01-02-ringtone" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-01-03-asm-print" Path="2016-2017-V2CPSE1-01-03-asm-print/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-01-03-asm-print" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-02-01-max" Path="2016-2017-V2CPSE1-02-01-max/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-02-01-max" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-02-02-diy-array" Path="2016-2017-V2CPSE1-02-02-diy-array/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-02-02-diy-array" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-02-03-std-array" Path="2016-2017-V2CPSE1-02-03-std-array/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-02-03-std-array" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-02-04-specialization" Path="2016-2017-V2CPSE1-02-04-specialization/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-02-04-specialization" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-02-05-proxy" Path="2016-2017-V2CPSE1-02-05-proxy/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-02-05-proxy" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-03-01-print" Path="2016-2017-V2CPSE1-03-01-print/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-03-01-print" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-04-01-10hz" Path="2016-2017-V2CPSE1-04-01-10hz/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-04-01-10hz" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-04-02-blink-and" Path="2016-2017-V2CPSE1-04-02-blink-and/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-04-02-blink-and" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-04-03-10hz-3hz" Path="2016-2017-V2CPSE1-04-03-10hz-3hz/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-04-03-10hz-3hz" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-04-05-main-coroutine" Path="2016-2017-V2CPSE1-04-05-main-coroutine/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-04-05-main-coroutine" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-04-06-coroutines" Path="2016-2017-V2CPSE1-04-06-coroutines/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-04-06-coroutines" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-05-01-print" Path="2016-2017-V2CPSE1-05-01-print/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-05-01-print" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-05-02-sine" Path="2016-2017-V2CPSE1-05-02-sine/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-05-02-sine" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-05-03-one" Path="2016-2017-V2CPSE1-05-03-one/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-05-03-one" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-05-04-own" Path="2016-2017-V2CPSE1-05-04-own/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-05-04-own" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-05-04-table" Path="2016-2017-V2CPSE1-05-04-table/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-05-04-table" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-05-05-constexpr" Path="2016-2017-V2CPSE1-05-05-constexpr/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-05-05-constexpr" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-05-06-lookup" Path="2016-2017-V2CPSE1-05-06-lookup/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-05-06-lookup" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-05-07-lambda" Path="2016-2017-V2CPSE1-05-07-lambda/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-05-07-lambda" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-05-08-oled-klasse" Path="2016-2017-V2CPSE1-05-08-oled-klasse/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-05-08-oled-klasse" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-05-90-clock-float" Path="2016-2017-V2CPSE1-05-90-clock-float/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-05-90-clock-float" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-05-91-clock-lookup" Path="2016-2017-V2CPSE1-05-91-clock-lookup/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-05-91-clock-lookup" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-06-01-nul" Path="2016-2017-V2CPSE1-06-01-nul/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-06-01-nul" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-06-02-even" Path="2016-2017-V2CPSE1-06-02-even/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-06-02-even" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-06-03-faculteit" Path="2016-2017-V2CPSE1-06-03-faculteit/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-06-03-faculteit" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-06-04-fibonachi" Path="2016-2017-V2CPSE1-06-04-fibonachi/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-06-04-fibonachi" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-06-05-loop" Path="2016-2017-V2CPSE1-06-05-loop/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-06-05-loop" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-06-06-unroll" Path="2016-2017-V2CPSE1-06-06-unroll/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-06-06-unroll" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-06-07-unroll_or_not" Path="2016-2017-V2CPSE1-06-07-unroll_or_not/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-06-07-unroll_or_not" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-06-08-sfinae" Path="2016-2017-V2CPSE1-06-08-sfinae/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-06-08-sfinae" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-06-91-compressor" Path="2016-2017-V2CPSE1-06-91-compressor/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-06-91-compressor" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-06-91-compressor-decompressor" Path="2016-2017-V2CPSE1-06-91-compressor-decompressor/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-06-91-compressor-decompressor" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-06-92-decompressor" Path="2016-2017-V2CPSE1-06-92-decompressor/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-06-92-decompressor" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-07-01-mutex" Path="2016-2017-V2CPSE1-07-01-mutex/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-07-01-mutex" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-07-02-raii" Path="2016-2017-V2CPSE1-07-02-raii/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-07-02-raii" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-55-01-systick" Path="2016-2017-V2CPSE1-55-01-systick/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-55-01-systick" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-55-02-tmr" Path="2016-2017-V2CPSE1-55-02-tmr/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-55-02-tmr" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="2016-2017-V2CPSE1-55-03-corruption" Path="2016-2017-V2CPSE1-55-03-corruption/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="2016-2017-V2CPSE1-55-03-corruption" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="inner_product_asm" Path="inner_product_asm/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="inner_product_asm" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="oefenopgave" Path="oefenopgave/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="oefenopgave" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="week-1-ringtone-file" Path="week-1-ringtone-file/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="week-1-ringtone-file" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="week-1-ringtone-string" Path="week-1-ringtone-string/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="week-1-ringtone-string" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="week-2-print_asciz-ASM" Path="week-2-print_asciz-ASM/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="week-2-print_asciz-ASM" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="week-2-print_asciz-C" Path="week-2-print_asciz-C/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="week-2-print_asciz-C" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
-  <Project Name="week-3" Path="week-3/_codelite.project" Active="Yes"/>
+  </BuildMatrix> 
+  <Project Name="week-3" Path="week-3/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="week-3" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="week-4" Path="week-4/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="week-4" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
   <Project Name="week-5" Path="week-5/_codelite.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Project Name="week-5" ConfigName="Release"/>
     </WorkspaceConfiguration>
-  </BuildMatrix>
+  </BuildMatrix> 
 </CodeLite_Workspace>
